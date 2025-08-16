@@ -19,11 +19,7 @@ export default function TechStack() {
   const icons = [
     { Comp: SiHtml5, key: "html5", color: "#E34F26" },
     { Comp: SiCss3, key: "css3", color: "#1572B6" },
-<<<<<<< HEAD
-     { Comp: SiJavascript, key: "javascript", color: "#F7DF1E" },
-=======
     { Comp: SiJavascript, key: "javascript", color: "#F7DF1E" },
->>>>>>> 40149b3 (Local changes before rebase)
     { Comp: SiBootstrap, key: "bootstrap", color: "#7952B3" },
     { Comp: SiTailwindcss, key: "tailwind", color: "#06B6D4" },
     { Comp: SiReact, key: "react", color: "#61DAFB" },
